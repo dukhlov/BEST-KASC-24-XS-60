@@ -1,0 +1,12 @@
+;	STMicroelectronics Workspace file
+
+[Version]
+Keyword=ST7Workspace-V0.7
+
+[Project0]
+Filename=best_hood_firmware.stp
+Dependencies=
+[Options]
+ActiveProject=best_hood_firmware
+ActiveConfig=Release
+AddSortedElements=0
